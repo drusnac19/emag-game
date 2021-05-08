@@ -1,0 +1,11 @@
+{
+    "name": "user/emag-game",
+    "description": "a simple game as test",
+    "authors": [
+        {
+            "name": "Dumitru",
+            "email": "drusnac19@gmail.com"
+        }
+    ],
+    "require": {}
+}
