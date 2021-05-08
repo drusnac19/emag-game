@@ -1,0 +1,4 @@
+/vendor/
+
+#Ignore PhpStorm IDE's configuration
+.idea
